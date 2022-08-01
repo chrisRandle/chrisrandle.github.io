@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Chris Randle
+
+Sight Reliability Engineer (SRE)
 
 You can use the [editor on GitHub](https://github.com/chrisRandle/chrisrandle.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
