@@ -1,0 +1,12 @@
+{% if site.data.experience %}
+{% assign xp = site.data.experience %}
+{% for entry in xp %}
+  {% assign key = entry | first %}
+    <div class="grid-container">
+      <div class="item1"><h3>{{ xp[key].employer }}</h3><p>{{ xp[key].title }}</p></div>
+      <div class="item2"><p>{{ xp[key].location }}</p><p>{{ xp[key].dates }}</p></div>
+      <div class="item3"><h4>Responsibilities</h4><p>{{ xp[key].responsibilities }}</p></div>
+      <div class="item4"><h4>Technologies</h4><p>{{ xp[key].technologies }}</p></div>
+    </div>
+{% endfor %}
+{% endif %}

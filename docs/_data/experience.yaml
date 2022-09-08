@@ -1,0 +1,48 @@
+invitae:
+  employer: 'Invitae'
+  title: 'Observability SRE'
+  dates: '2020 - Present'
+  location: 'San Francisco, CA'
+  responsibilities:  'SRE and DevOps work with a focus on Observability.
+    Utilized enterprise observability tools to help software teams troubleshoot issues and expose useful metrics.
+    Facilitated Observability integrations with Software Teams utilizing software packages and custom code.
+    Created Terraform & Spotify Backstage Templates to make observability easier for teams to implement and manage.'
+  technologies: 'Atlassian Jira & Confluence, AWS EKS, Amazon Cloudwatch, Bash Programming, Kubernetes, New Relic, PagerDuty, Prometheus, Terraform, Typescript'
+
+rcsb:
+  employer: 'RCSB PDB @ UCSD'
+  title: 'Lead DevOps Engineer'
+  dates: '2014 - 2020'
+  location: 'La Jolla, CA'
+  responsibilities: 'Architect, Acquire and Deploy OpenStack Private Cloud. 
+   Observability and Incident Response. 
+   Supporting Development Teams with DevOps and CI/CD Pipeline Management. 
+   Infrastructure as code using Python and Bash.'
+  technologies: 'Bash Programming, Gitlabs CI/CD, Openstack, Python, Zabbix'
+
+charlotte:
+  employer: 'Charlotte Russe'
+  title: 'Security & Compliance Analyst'
+  dates: '2011 - 2014'
+  location: 'San Diego, CA'
+  responsibilities: 'Maintain a secure and compliant environment for data center infrastructure, corporate offices, and retail locations. 
+   Configure and manage information security tools and alerts. 
+   Wrote Corporate Policy For Security. 
+   Technical Lead for PCI and SOX Audits.'
+  technologies:  'Microsoft Group Policy, PaloAlto Firewalls, Qualys, Symantec Enterprise Antivirus, Splunk'
+
+tig:
+  employer: 'Technology Integrations Group'
+  title: 'Security Engineer'
+  dates:  '2009 - 2011'
+  location: 'San Diego, CA'
+  responsibilities: 'Acquire partner certifications in enterprise grade security solutions. 
+    Implement Security Solutions for Customers. 
+    Train customers on configuration and maintenance of purchased tools.'
+  technologies: 'Palo Alto Firewalls, SonicWall Firewalls, Symantec Enterprise Security Tools, Juniper Network Equipment'
+
+
+
+
+
+

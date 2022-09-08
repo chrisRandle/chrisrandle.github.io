@@ -1,6 +1,11 @@
 /* Change font color and size */
 .basic {
   color: white;
+  padding-left: 10px;
+}
+
+.plain {
+  background-color: black;
 }
 
 .links {
@@ -13,7 +18,12 @@
   font-size: 20px;
   padding: 20px;
   border: 1px solid lightgrey;
-  margin: 20px
+  margin-top: 10px
+}
+
+.social {
+  padding-left: 10px;
+  color: #04AA6D;
 }
 
 /* Add a black background color to the top navigation */
