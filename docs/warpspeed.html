@@ -1,8 +1,39 @@
 ---
 layout: default
-title: Warpspeed
+title: WarpSpeed
 ---
-<h1>{{ "About: Chris Randle" }}</h1>
-<canvas id="myCanvas"></canvas>
+<h1 class="basic">{{ "Stuff I am into" }}</h1>
+<div class="box">
+  <p class="basic">
+    {{ "Observability because knowledge is power." }} <br>
+    {{ "For new observability projects I like to get a baseline using infrastructure monitoring and" }}
+    <a
+       href="https://www.infoworld.com/article/3638693/the-red-method-a-new-strategy-for-monitoring-microservices.html"
+       target="_blank"
+       class="links">
+      {{ "RED Metrics" }}
+    </a>
+    <br>
+    {{ "Followed by more application specific custom metrics for team awareness." }}
+    <br>
+    {{ "Then possibly add in Saturation as suggested by Google's" }}
+    <a
+       href="https://sre.google/sre-book/monitoring-distributed-systems/"
+       target="_blank"
+       class="links"
+    >
+      {{ "Four Golden Signals" }}
+    </a>
+  </p>
 
-<script src="assets/js/warpspeed.js"></script>
+  <p class="basic">{{ "Githubpages using " }}
+    <a href="https://jekyllrb.com" target="_blank" class="links">{{ "jekyll" }}</a>
+    {{ "I found the"}}
+    <a href="https://jekyllrb.com/docs/step-by-step/01-setup/" target="_blank" class="links">{{ "step by step" }}</a>
+    {{ "tutorial a helpful starting point to work from scratch." }}
+  </p>
+  <p class="basic">{{ "Original Code for WarpSpeed" }}
+    <a href="https://codepen.io/acarva1/pen/GgbgLe" target="_blank" class="links">{{ "CodePen.io" }}</a>
+    {{ "modified to have a binary matrix feel." }}
+  </p>
+</div>

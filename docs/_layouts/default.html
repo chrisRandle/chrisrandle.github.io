@@ -5,8 +5,9 @@
     <title>{{ page.title }}</title>
     <link rel="stylesheet" href="/assets/css/styles.css">
 </head>
-<body class="bg">
-  {% include navigation.html %}
-  {{ content }}
+<body>
+    {% include navigation.html %}
+    {% include warpspeed.html %}
+    {{ content }}
 </body>
 </html>
