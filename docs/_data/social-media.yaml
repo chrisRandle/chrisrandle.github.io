@@ -1,8 +1,8 @@
-email:
-  id: 'chris.w.randle@gmail.com'
-  href: 'mailto:'
-  title: 'Email'
-  fa-icon: 'fa-envelope-square'
+# email:
+#   id: 'chris.w.randle@gmail.com'
+#   href: 'mailto:'
+#   title: 'Email'
+#   fa-icon: 'fa-envelope-square'
 
 github:
   id: 'chrisRandle'
