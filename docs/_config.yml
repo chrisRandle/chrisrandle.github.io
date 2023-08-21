@@ -1,0 +1,10 @@
+# Name of the site
+name: Chris Randle
+# Short bio
+description: "Information Systems Engineer"
+# avatar from github
+avatar: https://avatars.githubusercontent.com/u/9872310?v=4
+
+safe: true
+timezone: America/Denver
+encoding: utf-8
