@@ -3,8 +3,7 @@ ul:
   title: 'Sr. DevOps Administrator'
   dates: '2022 - Present'
   location: Atlanta, GA
-  responsibilities: 'DevOps Administrator for Physical DataCenters and Cloud Computing
-    Maintain Infrastructure utilizing infrastructure as code tools and custom code.'
+  responsibilities: 'DevOps Administrator for Physical DataCenters and Cloud Computing.'
   technologies: 'Atlassian Jira & Confluence, Git, Grafana, Kubernetes, Prometheus, Terraform'
   
 invitae:
