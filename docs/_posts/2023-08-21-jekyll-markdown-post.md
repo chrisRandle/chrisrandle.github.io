@@ -11,7 +11,7 @@ Markdown is a text-to-HTML tool. Markdown allows you to write using an easy-to-r
 - Create the _posts directory in the root directory of the jekyll project.
 - Create a top level html file
   - For this github pages project it's called notes.html
-  - The html file will serve as a notes navigation source otherwise individual posts are difficult to find, as they are placed under a /YYYY/MM/DD directory.
+  - The html file will serve as a notes navigation source otherwise individual posts are difficult to find, as they are placed under a ```_sites/YYYY/MM/DD``` directory.
   ```
     --- 
     layout: default
