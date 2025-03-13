@@ -8,7 +8,7 @@ Review Profile Location
 ```
   echo $profile
 ```
-- The path typically looks like this 'C:\Users\\<USER_NAME>\PowerShell\Microsoft.PowerShell_profile.ps1'
+- The path typically looks like this 'C:\Users\USER_NAME\PowerShell\Microsoft.PowerShell_profile.ps1'
 
 Verify if a profile already exists 
 ```
