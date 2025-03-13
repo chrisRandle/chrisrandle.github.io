@@ -4,8 +4,8 @@ fime:
   dates: '2024 - Present'
   location: 'Fort Collins, CO'
   responsibilities: 'DevOps Administration for Physical DataCeters and Cloud Computing.'
-  technologies: 'Kubernetes, Terraform, Azure'
-  
+  technologies: 'Kubernetes, Terraform, Azure, Gitlab'
+
 ul: 
   employer: 'UL Solutions'
   title: 'Sr. DevOps Administrator'
